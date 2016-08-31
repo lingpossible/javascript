@@ -1,2 +1,2 @@
 # javascript
-Exercise
+Exercise #1
